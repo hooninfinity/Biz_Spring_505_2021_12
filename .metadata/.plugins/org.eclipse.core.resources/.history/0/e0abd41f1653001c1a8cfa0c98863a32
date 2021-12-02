@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- 
+	CommonMultipartResolver 를 설정해 두면
+	file 을 업로드 할때
+	background 에서 spring framework 를 도와서 기능이 수행
+	중요 : 업로드할 파일의 크기를 제한하는 속성을 지정
+	-->
+	<bean class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+	
+	</bean>
+
+</beans>

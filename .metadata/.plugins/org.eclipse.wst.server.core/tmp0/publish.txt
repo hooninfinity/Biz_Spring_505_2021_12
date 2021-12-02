@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 02 13:00:29 KST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\bizworks\\jdk_3rd\\repo\\org\\springframework\\spring-web\\5.2.18.RELEASE\\spring-web-5.2.18.RELEASE.jar=WEB-INF/lib/spring-web-5.2.18.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\403\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\5.2.18.RELEASE\\92f5fde362654fae46bd50bd6c541791e897bf71\\spring-web-5.2.18.RELEASE.jar=WEB-INF/lib/spring-web-5.2.18.RELEASE.jar

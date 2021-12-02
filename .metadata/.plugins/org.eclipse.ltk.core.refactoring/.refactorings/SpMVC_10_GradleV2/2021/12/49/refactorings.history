@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;build.gradle&apos; to &apos;SpMVC_10_GradleV2&apos;" description="Move &apos;build.gradle&apos; to &apos;SpMVC_10_GradleV2&apos;" destination="/SpMVC_10_GradleV2" element1="/lib/build.gradle" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1638331786686" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\bizworks\SpringV2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\936103182.index
+\SpMVC_00_Hello\src\main\java
+C:\bizworks\SpringV2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1779455922.index
+\SpMVC_20_todo\src\main\java
