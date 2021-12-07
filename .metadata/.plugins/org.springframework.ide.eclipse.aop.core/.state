@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="SpMVC_20_Todo_V3"/>
+</aop-reference-model>
